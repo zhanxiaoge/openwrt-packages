@@ -1,0 +1,7 @@
+{
+  "luci-app-dockerman": {
+    "description": "Grant access to Docker Manager configuration and status",
+    "read": {},
+    "write": {}
+  }
+}

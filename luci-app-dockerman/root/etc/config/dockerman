@@ -1,0 +1,2 @@
+config dockerman 'global'
+  option enabled '1'

@@ -1,0 +1,12 @@
+{
+  "admin/services/dockerman": {
+    "title": "Docker Manager",
+    "action": {
+      "type": "view",
+      "path": "dockerman/overview"
+    },
+    "depends": {
+      "acl": ["luci-app-dockerman"]
+    }
+  }
+}
