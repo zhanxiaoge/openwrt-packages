@@ -1,0 +1,7 @@
+{
+  "luci-app-dnsproxy": {
+    "description": "Grant access to DNS Proxy configuration and status",
+    "read": {},
+    "write": {}
+  }
+}
