@@ -1,0 +1,3 @@
+config dnsproxy 'global'
+  option enabled '1'
+  option verbosity '1'
